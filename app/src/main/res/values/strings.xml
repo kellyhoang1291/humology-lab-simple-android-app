@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">humologylabdemo</string>
+    <string name="tilte_text">Enter your first name and last name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="ad_success_titile">Congrats</string>
+    <string name="ad_success_text">You have successfully registered for Humology Lab Workshop!</string>
+    <string name="search_view_hint">Search participant</string>
+    <string name="participant_list">Participant List</string>
+    <string name="phuong_kelly_hoang">Phuong (Kelly) Hoang</string>
+    <string name="student_id">SID: 101306676</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
